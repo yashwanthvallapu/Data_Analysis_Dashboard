@@ -1,4 +1,4 @@
-# Data_Analysis_Dashboard(Interactive Dashboard creation using MS Excel)
+# Fnp-Data-Analysis(Interactive Dashboard creation using MS Excel)
 I developed a comprehensive project in Excel, Creating multiple tables and charts to analyze the data. This process involved several stages, including data processing, data cleaning, and data visualization.
 
 Executive Summary – FNP Sales Analysis
