@@ -58,8 +58,8 @@ Product Strategy: Focus on promoting best-selling product lines while innovating
 Seasonality & Campaigns: Strengthen marketing campaigns around high-revenue months (Feb, Aug, Nov) and key occasions (Anniversary, Valentine’s Day, Raksha Bandhan).
 Customer Experience: Reducing delivery time from the current average of 5.53 days could enhance satisfaction and drive repeat purchases.
 Regional Focus: Tailored campaigns for high-order cities and localized offerings can help scale revenue further.
-
 #Dashboard:
+
 <img width="870" height="1858" alt="fnp_dashboard" src="https://github.com/user-attachments/assets/8f5641f9-3f91-4d18-9a4c-d9ef75369626" />
 
 Conclusion:
